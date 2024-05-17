@@ -1,0 +1,14 @@
+.APP{
+  max-width: 1000px;
+}
+.content{
+  display: block;
+  margin: 3px auto;
+
+}
+.submit{
+  display: block;
+  margin: 0px auto;
+}
+
+
